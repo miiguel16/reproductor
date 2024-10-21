@@ -13,7 +13,12 @@ const playlist = {
         img: ,
         song: 
     }
-}
+}              
+
+
+
+
+
 
 play.addEventListener (`click` , () => audio.play)
 
