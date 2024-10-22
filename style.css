@@ -8,14 +8,16 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('bgBody.avif');}
+    background: url('bgBody.avif');
+        background-color:dimgrey;
+}
   
   .container-player {
       width: 22rem;
       height: 25rem;
       border-radius: 10px;
-      background-color: #7a839a;
-      box-shadow: 4px 4px 5px #012b61;
+      background-color: white;
+      box-shadow: 4px 4px 5px black;
       display: flex;
       flex-direction: column;
       align-items: center;
